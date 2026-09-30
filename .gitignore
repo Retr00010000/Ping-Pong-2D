@@ -1,0 +1,13 @@
+# Build output
+Debug/
+Release/
+bin/
+build/
+*.exe
+*.pdb
+*.obj
+*.o
+
+# Editor temporary cache
+.vscode/ipch/
+.vs/
