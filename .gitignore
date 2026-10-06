@@ -11,3 +11,4 @@ build/
 # Editor temporary cache
 .vscode/ipch/
 .vs/
+.cache/
